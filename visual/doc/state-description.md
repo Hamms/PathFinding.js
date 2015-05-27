@@ -1,4 +1,4 @@
-From [issue 6](https://github.com/qiao/PathFinding.js/issues/6)
+From [issue 6](https://github.com/hamms/PathFinding.js/issues/6)
 
 #### states and button labels/actions
 

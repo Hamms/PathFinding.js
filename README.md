@@ -2,14 +2,14 @@ PathFinding.js
 ==============
 #### A comprehensive path-finding library in javascript. ####
 
-[![Build Status](https://travis-ci.org/qiao/PathFinding.js.svg?branch=master)](https://travis-ci.org/qiao/PathFinding.js)
+[![Build Status](https://travis-ci.org/hamms/PathFinding.js.svg?branch=master)](https://travis-ci.org/hamms/PathFinding.js)
 
 Introduction
 ------------
 
 The aim of this project is to provide a path-finding library that can be easily incorporated into web games. It may run on Node.js or the browser.
 
-It comes along with an [online demo](http://qiao.github.com/PathFinding.js/visual) to show how the algorithms execute. (The pathfinding speed is slowed down in the demo)
+It comes along with an [online demo](http://hamms.github.com/PathFinding.js/visual) to show how the algorithms execute. (The pathfinding speed is slowed down in the demo)
 
 Note that this project only provides path-finding algorithms for 2D space. If you need to work in a 3D environment, then you may use [@schteppe](https://github.com/schteppe)'s [fork](https://github.com/schteppe/PathFinding3D.js).
 
@@ -34,7 +34,7 @@ Now skip to the `Basic Usage` section of this readme.
 Browser
 -------
 
-Please refer to the [Releases Page](https://github.com/qiao/PathFinding.js/releases) to download the latest release and include it in your web page.
+Please refer to the [Releases Page](https://github.com/hamms/PathFinding.js/releases) to download the latest release and include it in your web page.
 
 ```html
 <script type="text/javascript" src="./pathfinding-browser.min.js"></script>
